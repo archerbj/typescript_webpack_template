@@ -1,0 +1,13 @@
+#fancyCanvas {
+    border: solid;
+    width: 800px;
+    height: 800px;
+}
+
+#test {
+    border: solid;
+    width: 300px;
+    height: 200px;
+    background: url('../assets/images/pic.png');
+    background-size: 100% 100%;
+}
